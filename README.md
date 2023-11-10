@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/IlyaZuev90/HW_2_AUTO_API-CI/actions/workflows/gradle.yml/badge.svg)](https://github.com/IlyaZuev90/HW_2_AUTO_API-CI/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/IlyaZuev90/HW_2_AUTO_API-CI/actions/workflows/gradle.yml/badge.svg?branch=main)](https://github.com/IlyaZuev90/HW_2_AUTO_API-CI/actions/workflows/gradle.yml)
